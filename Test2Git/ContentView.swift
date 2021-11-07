@@ -15,6 +15,7 @@ struct ContentView: View {
         Text("develop")
             .font(.body)
         Text("dadlkfjalsdjf")
+            .font(.body)
     }
 }
 
