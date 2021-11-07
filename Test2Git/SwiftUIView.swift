@@ -13,6 +13,7 @@ struct SwiftUIView: View {
             .font(.body)
         
         Text("dfdfsd")
+            .font(.body)
     }
     
 }
