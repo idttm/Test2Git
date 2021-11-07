@@ -13,6 +13,7 @@ struct ContentView: View {
             .padding()
             .font(.body)
         Text("develop")
+            .font(.body)
     }
 }
 
